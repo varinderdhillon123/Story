@@ -14,6 +14,7 @@
 		9B37E561236BA27C001CF4B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B37E55F236BA27C001CF4B9 /* LaunchScreen.storyboard */; };
 		9B37E56C236BA27C001CF4B9 /* StoryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B37E56B236BA27C001CF4B9 /* StoryTests.swift */; };
 		9B37E577236BA27C001CF4B9 /* StoryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B37E576236BA27C001CF4B9 /* StoryUITests.swift */; };
+		9B37E589236BA440001CF4B9 /* hot-air-balloon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B37E588236BA440001CF4B9 /* hot-air-balloon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9B37E572236BA27C001CF4B9 /* StoryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StoryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B37E576236BA27C001CF4B9 /* StoryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryUITests.swift; sourceTree = "<group>"; };
 		9B37E578236BA27C001CF4B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B37E588236BA440001CF4B9 /* hot-air-balloon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "hot-air-balloon.png"; path = "../../hot-air-balloon.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				9B37E558236BA27C001CF4B9 /* ViewController.swift */,
 				9B37E55A236BA27C001CF4B9 /* Main.storyboard */,
 				9B37E55D236BA27C001CF4B9 /* Assets.xcassets */,
+				9B37E588236BA440001CF4B9 /* hot-air-balloon.png */,
 				9B37E55F236BA27C001CF4B9 /* LaunchScreen.storyboard */,
 				9B37E562236BA27C001CF4B9 /* Info.plist */,
 			);
@@ -231,6 +234,7 @@
 			files = (
 				9B37E561236BA27C001CF4B9 /* LaunchScreen.storyboard in Resources */,
 				9B37E55E236BA27C001CF4B9 /* Assets.xcassets in Resources */,
+				9B37E589236BA440001CF4B9 /* hot-air-balloon.png in Resources */,
 				9B37E55C236BA27C001CF4B9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
